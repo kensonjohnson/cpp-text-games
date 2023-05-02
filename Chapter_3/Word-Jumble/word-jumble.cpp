@@ -72,7 +72,7 @@ int main()
     // The player exits the loop by entering the right guess or 'quit'
     if (guess == theWord)
     {
-        cout << "\vThat's it! You guessed it!\n";
+        cout << "\nThat's it! You guessed it!\n";
     }
 
     cout << "\nThanks for playing.\n";
